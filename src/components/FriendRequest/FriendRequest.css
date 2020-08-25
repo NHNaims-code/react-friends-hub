@@ -1,0 +1,33 @@
+.body{
+    display: flex;
+    align-items:center;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 20px;
+    margin: 20px 20px;
+}
+.body img{
+    margin: 0 10px;
+}
+.requestItem {
+    
+}
+.requestItem p{
+    font-size: 14px;
+    margin: 0;
+    padding:0;
+}
+.requestItem h5{
+    
+    margin:0;
+    padding: 0;
+}
+.button{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    margin-left: auto;
+}
+.button button{
+    margin: 20px;
+    padding: 5px;
+}
